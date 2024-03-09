@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/rectprop3/static/css/main.6ac5b25f.css",
-    "main.js": "/rectprop3/static/js/main.3c165303.js",
+    "main.css": "/rectprop3/static/css/main.ab70eb04.css",
+    "main.js": "/rectprop3/static/js/main.1a831e0d.js",
     "static/js/453.63919244.chunk.js": "/rectprop3/static/js/453.63919244.chunk.js",
+    "static/media/netflix-hex-colors-gradient-background (1).png": "/rectprop3/static/media/netflix-hex-colors-gradient-background (1).1cf540eea4bec5dfc5ee.png",
     "index.html": "/rectprop3/index.html",
-    "main.6ac5b25f.css.map": "/rectprop3/static/css/main.6ac5b25f.css.map",
-    "main.3c165303.js.map": "/rectprop3/static/js/main.3c165303.js.map",
+    "main.ab70eb04.css.map": "/rectprop3/static/css/main.ab70eb04.css.map",
+    "main.1a831e0d.js.map": "/rectprop3/static/js/main.1a831e0d.js.map",
     "453.63919244.chunk.js.map": "/rectprop3/static/js/453.63919244.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac5b25f.css",
-    "static/js/main.3c165303.js"
+    "static/css/main.ab70eb04.css",
+    "static/js/main.1a831e0d.js"
   ]
 }
