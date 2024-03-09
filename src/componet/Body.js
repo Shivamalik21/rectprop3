@@ -16,13 +16,13 @@ const Body = (data) => {
     <div style={{padding:"10% 20%"}}>
       <h1>MovieCard:-</h1>
       {movie.map((e,index)=>{
-        console.log(e.Poster)
+       
         return(
           
           <div key={index} style={{textAlign:"start", width:"50vw",   marginBottom:"5vw",display:"flex", flexDirection:"column", gap:"3vw", boxShadow:"0px 0px 4px grey", borderRadius:"50px", padding:"3vw", backgroundImage:e.Poster}}>
             {/* cardBox */}
            <div style={{display:"flex",  alignItems:"center", gap:"1vw" } }>
-            <img alt="img" src={e.Poster} style={{width:"10vw", height:"20vh", borderRadius:"10px"}}></img>
+            <img alt="img" src={e.Poster} style={{width:"10vw", height:"25vh", borderRadius:"10px"}}></img>
             {/* title/time/director */}
             <div style={{textAlign:"start",}}>
             <p style={{fontWeight:"bold", fontSize:"25px"}}>{e.Title}</p>
